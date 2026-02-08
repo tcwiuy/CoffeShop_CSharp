@@ -70,7 +70,7 @@ Tài khoản Admin mặc định (nếu có trong script SQL): admin / admin123 
 
 📂 Cấu Trúc Thư Mục
 
-'''
+```
 CoffeShop_CSharp/
 ├── Final/
 │   ├── CafeKaticas/
@@ -81,7 +81,7 @@ CoffeShop_CSharp/
 │   │   └── Program.cs     # Điểm khởi chạy ứng dụng
 │   └── CafeKaticas.sln    # File Solution chính của Visual Studio
 └── SQLQuery1.sql          # Script tạo cơ sở dữ liệu
-'''
+```
 
 
 

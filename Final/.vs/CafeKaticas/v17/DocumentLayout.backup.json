@@ -1,0 +1,935 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\maunhaphangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\maunhaphangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\nhaphangreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhaphangreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\nhaphangreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhaphangreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\nhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\nhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\nhaphangreportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\nhaphangreportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\nhaphangreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\nhaphangreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\mauddhcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\mauddhcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\maudondathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\maudondathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\admindathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\admindathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\chitietdonhangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\phu\\downloads\\ch\u1EC9nh s\u1EEDa 22-11-20241213t173757z-001\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\maudondathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\maudondathangform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\nhacungcapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\nhacungcapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\nhanvienordercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\nhanvienordercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\lichsunhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\lichsunhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\lichsudathangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\lichsudathangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\lichsubanhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\lichsubanhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\dathangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\dathangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\ctddhcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\ctddhcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\chitietnhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\chitietnhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\addproductcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\addproductcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\nhanvienorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhanvienorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\admindathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\admindathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\nhanvienorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhanvienorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\nhanvienorderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\nhanvienorderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\nhanvienorderproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\nhanvienorderproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\bctk.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\bctk.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\lichsubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\lichsubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\lichsubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\lichsubanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\lichsubanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\lichsubanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\Database.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\Database.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\Database.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\Database.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:07:20.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauNhapHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\MauNhapHangForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\MauNhapHangForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\MauNhapHangForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\MauNhapHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:34:42.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhapHangReport.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHangReport.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhapHangReport.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHangReport.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhapHangReport.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:27:51.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhapHangReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHangReport.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhapHangReport.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHangReport.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhapHangReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:27:38.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauDDHControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\MauDDHControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\MauDDHControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\MauDDHControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\MauDDHControl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauDonDatHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\MauDonDatHangForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\MauDonDatHangForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\MauDonDatHangForm.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\MauDonDatHangForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:44:17.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhapHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhapHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\NhapHangControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhapHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\NhapHangControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:51.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhapHangReportControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhapHangReportControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\NhapHangReportControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhapHangReportControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\NhapHangReportControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhapHangReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\NhapHangReport.rdlc",
+              "RelativeDocumentMoniker": "CafeKaticas\\NhapHangReport.rdlc",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\NhapHangReport.rdlc [Design]",
+              "RelativeToolTip": "CafeKaticas\\NhapHangReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-14T16:22:13.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\ChiTietNhapHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs",
+              "RelativeToolTip": "CafeKaticas\\ChiTietNhapHang.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwGcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:03:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDatHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDatHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminDatHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDatHang.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminDatHang.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAYwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:18:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietDonHangForm.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\ChiTietDonHangForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\ChiTietDonHangForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\ChiTietDonHangForm.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\ChiTietDonHangForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:03:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietDonHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\ChiTietDonHangForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\ChiTietDonHangForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\ChiTietDonHangForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\ChiTietDonHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:00:57.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMainForm.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminMainForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:01:25.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhapHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHang.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhapHang.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:01:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChiTietNhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\ChiTietNhapHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\ChiTietNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:03:22.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MauDonDatHangForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\MauDonDatHangForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\MauDonDatHangForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\MauDonDatHangForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\MauDonDatHangForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:44:09.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:31:57.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NhaCungCapControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhaCungCapControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\NhaCungCapControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhaCungCapControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\NhaCungCapControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:49.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogInControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LogInControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\LogInControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LogInControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\LogInControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:46.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LichSuNhapHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:44.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LichSuDatHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuDatHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\LichSuDatHangControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuDatHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\LichSuDatHangControl.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NhanVienOrderControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhanVienOrderControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\NhanVienOrderControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhanVienOrderControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\NhanVienOrderControl.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:16:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DatHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\DatHangControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DatHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\DatHangControl.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:37.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\MenuControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\MenuControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\MenuControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\MenuControl.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:46:06.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashBoardControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DashBoardControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\DashBoardControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DashBoardControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\DashBoardControl.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:31.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CTDDHControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\CTDDHControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\CTDDHControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\CTDDHControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\CTDDHControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:29.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChiTietNhapHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:27.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\BaoCao.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\BaoCao.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\BaoCao.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\BaoCao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:24.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LichSuBanHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuBanHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\LichSuBanHangControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuBanHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\LichSuBanHangControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:55:23.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\AddUserControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\AddUserControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\AddUserControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\AddUserControl.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:21.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Program.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Program.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Program.cs",
+              "RelativeToolTip": "CafeKaticas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:02.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NhanVienOrderData.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\NhanVienOrderData.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\NhanVienOrderData.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\NhanVienOrderData.cs",
+              "RelativeToolTip": "CafeKaticas\\NhanVienOrderData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwEEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:00:31.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NhanVienOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhanVienOrder.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhanVienOrder.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhanVienOrder.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhanVienOrder.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:05:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NhanVienOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhanVienOrder.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhanVienOrder.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhanVienOrder.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhanVienOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:05:14.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminDatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDatHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminDatHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDatHang.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:48:12.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddProductControl.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\AddProductControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\AddProductControl.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\AddProductControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\AddProductControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:26:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminAddUsers.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:12:47.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NhanVienOrderProdData.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\NhanVienOrderProdData.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\NhanVienOrderProdData.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\NhanVienOrderProdData.cs",
+              "RelativeToolTip": "CafeKaticas\\NhanVienOrderProdData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:15:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhapHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHang.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:48:26.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMenuForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminMenuForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMenuForm.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminMenuForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAwH0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:31:18.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CashierMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\CashierMainForm.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\CashierMainForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:33:25.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMenuForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminMenuForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMenuForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:45:05.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDashboardForm.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAwwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:24:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BCTK.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\BCTK.rdlc",
+              "RelativeDocumentMoniker": "CafeKaticas\\BCTK.rdlc",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\BCTK.rdlc [Design]",
+              "RelativeToolTip": "CafeKaticas\\BCTK.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-14T10:34:46.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CashierMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\CashierMainForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\CashierMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:17:09.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LogInForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LogInForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:03:37.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:16:57.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaoCaoThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\BaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\BaoCaoThongKe.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\BaoCaoThongKe.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\BaoCaoThongKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:25:22.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminAddProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminAddProducts.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddProducts.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminAddProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:11:39.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminAddUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminAddUsers.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddUsers.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminAddUsers.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:12:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\HoaDon.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\HoaDon.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:55:50.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminAddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminAddProducts.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminAddProducts.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminAddProducts.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAwwJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:44:50.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LichSuBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuBanHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\LichSuBanHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuBanHang.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\LichSuBanHang.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:56:32.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LichSuBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuBanHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\LichSuBanHang.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuBanHang.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\LichSuBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:56:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LichSuBanHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\LichSuBanHang.Designer.cs",
+              "ToolTip": "C:\\Users\\Phu\\Downloads\\Ch\u1EC9nh s\u1EEDa 22-11-20241213T173757Z-001\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuBanHang.Designer.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\LichSuBanHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:55:06.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -69,3 +69,19 @@ Nhấn Start hoặc F5 trong Visual Studio để khởi chạy.
 Tài khoản Admin mặc định (nếu có trong script SQL): admin / admin123 (hoặc xem trong bảng Users).
 
 📂 Cấu Trúc Thư Mục
+
+'''
+CoffeShop_CSharp/
+├── Final/
+│   ├── CafeKaticas/
+│   │   ├── Control/       # Các UserControls (Giao diện con: Order, Menu...)
+│   │   ├── Form/          # Các cửa sổ chính (Admin, Login, Dashboard...)
+│   │   ├── Resources/     # Tài nguyên hình ảnh, icon
+│   │   ├── *.rdlc         # File thiết kế báo cáo (Report)
+│   │   └── Program.cs     # Điểm khởi chạy ứng dụng
+│   └── CafeKaticas.sln    # File Solution chính của Visual Studio
+└── SQLQuery1.sql          # Script tạo cơ sở dữ liệu
+'''
+
+
+

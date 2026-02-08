@@ -43,3 +43,39 @@ Dự án này là một ứng dụng Windows Forms (WinForms) được xây dự
 1. **Clone repository này về máy:**
    ```bash
    git clone [https://github.com/tcwiuy/CoffeShop_CSharp.git](https://github.com/tcwiuy/CoffeShop_CSharp.git)
+
+2. **Cấu hình Cơ sở dữ liệu**
+
+Mở SQL Server Management Studio (SSMS).
+
+Mở file script SQLQuery1.sql (nằm trong thư mục gốc hoặc thư mục database).
+
+Chạy script (Execute) để tạo Database và các bảng dữ liệu cần thiết.
+
+3. **Kết nối Database trong Code**
+
+Mở file solution Final/CafeKaticas.sln bằng Visual Studio.
+
+Tìm file Database.cs hoặc nơi chứa chuỗi kết nối (connection string).
+
+Sửa lại Data Source thành tên máy chủ SQL của bạn:
+
+C#
+string connectionString = "Data Source=TEN_MAY_CUA_BAN;Initial Catalog=KATICAS;Integrated Security=True";
+4. **Chạy ứng dụng**
+
+Nhấn Start hoặc F5 trong Visual Studio để khởi chạy.
+
+Tài khoản Admin mặc định (nếu có trong script SQL): admin / admin123 (hoặc xem trong bảng Users).
+
+📂 Cấu Trúc Thư Mục
+CoffeShop_CSharp/
+├── Final/
+│   ├── CafeKaticas/
+│   │   ├── Control/       # Các UserControls (Giao diện con)
+│   │   ├── Form/          # Các cửa sổ chính (Admin, Login, Order...)
+│   │   ├── Resources/     # Hình ảnh, icon
+│   │   ├── *.rdlc         # File thiết kế báo cáo
+│   │   └── Program.cs     # Điểm khởi chạy
+│   └── CafeKaticas.sln    # File Solution
+└── SQLQuery1.sql          # Script tạo database
